@@ -1,0 +1,19 @@
+source des différents jeux de données utilisées :
+
+- Electricity_Production_By_Source :https://www.kaggle.com/datasets/prateekmaj21/electricity-production-by-source-world
+
+- deforestation-drivers-indonesia : https://ourworldindata.org/palm-oil  ; avant dernier graphique 
+
+- CO2 kt : https://donnees.banquemondiale.org/indicator/EN.ATM.CO2E.KT?end=2015&name_desc=false&start=1960&type=shaded&view=map&year=2019
+
+- co-emissions-by-sector : https://ourworldindata.org/grapher/co-emissions-by-sector
+
+- co2-emissions-transport : https://ourworldindata.org/transport#co2-emissions-from-transport ; via la seconde carte
+
+- energy : https://ourworldindata.org/energy
+
+- greenhouse-gas-emissions-from-transport-5 : https://www.eea.europa.eu/ims/greenhouse-gas-emissions-from-transport
+
+- drivers-forest-loss-brazil-amazon : https://ourworldindata.org/drivers-of-deforestation; vers la partie "La production de soja entraîne-t-elle la déforestation ?"
+
+-share-global-forest : https://ourworldindata.org/forest-area; dans la parite superficie forestiere totale
